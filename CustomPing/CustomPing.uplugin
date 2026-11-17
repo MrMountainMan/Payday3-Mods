@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "CustomPing",
+	"Description": "Adds the ability to customize ping markers",
+	"Category": "Modding",
+	"CreatedBy": "MrMountainMan",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "PDML",
+			"Enabled": true,
+			"SemVersion": "EA_0.1.0"
+		}
+	],
+	"EnabledByDefault": true,
+	"SemVersion": "1.0.0",
+	"RequiredOnRemote": false
+}
